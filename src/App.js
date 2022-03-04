@@ -2,6 +2,7 @@ import { Container, Heading } from "@chakra-ui/react";
 import AddTodo from "./Component/AddTodo";
 import Filter from "./Component/Filter";
 import TodoList from "./Component/TodoList";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
